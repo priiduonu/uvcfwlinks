@@ -43,6 +43,7 @@ by the device model:
 - https://fw-download.ubnt.com/data/uvc/9a5f-s2l-4.63.22-43760f965dd54451859fd8a2349505ef.bin
 - https://fw-download.ubnt.com/data/uvc/e9d0-s2l-4.64.144-5c781fb61fcb4c5991b6426ef67ce85f.bin
 - https://fw-download.ubnt.com/data/uvc/aef8-s2l-4.64.150-44b9a1b475574adbb5c3f47b4ebf743e.bin
+- https://fw-download.ubnt.com/data/uvc/81e6-s2l-4.69.55-8a935a2f-482f-42a1-a030-21276ea9e406.bin
 
 ## s5l
 
@@ -60,6 +61,7 @@ by the device model:
 - https://fw-download.ubnt.com/data/uvc/f2ad-s5l-4.63.22-33aae7792c344d8db134fc91cbb99290.bin
 - https://fw-download.ubnt.com/data/uvc/7e30-s5l-4.64.144-1675cca214ba4b30acf37f68554190fa.bin
 - https://fw-download.ubnt.com/data/uvc/4e9e-s5l-4.64.150-bc202d40365944799c1a2aa284cbccd7.bin
+- https://fw-download.ubnt.com/data/uvc/e8ef-s5l-4.69.55-d47949e5-e653-4824-8fb2-13ccedcb98b2.bin
 
 ## sav530q
 
@@ -67,3 +69,4 @@ by the device model:
 - https://fw-download.ubnt.com/data/uvc/982f-sav530q-4.63.22-4b8e3d99ff83483ea53fb79f9664ecc3.bin
 - https://fw-download.ubnt.com/data/uvc/ca8d-sav530q-4.64.144-133a05efe9bc4281970dbcd99336d73f.bin
 - https://fw-download.ubnt.com/data/uvc/c600-sav530q-4.64.150-0eab7d3bda5644c4a0dd4d7a496c2776.bin
+- https://fw-download.ubnt.com/data/uvc/408c-sav530q-4.69.55-0e01220c-0a4b-47c3-9aba-bcd18257878e.bin
