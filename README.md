@@ -3,9 +3,12 @@
 Sometimes you may need to upgrade or downgrade a standalone UniFi Protect
 device (not adopted by UniFi Cloud Key or NVR).
 
-Here are some direct firmware download links, extracted from
-`/srv/unifi-protect/logs/updates.downloadRelease.log` in the UniFi Cloud
-Key.
+Here are some direct firmware download links, the filenames have been extracted from
+the UniFi Cloud Key log files like this:
+
+```
+grep path /srv/unifi-protect/logs/devices.updates*log | sort | uniq
+```
 
 There are different versions of the firmware, depending of the platform used
 by the device model:
