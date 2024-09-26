@@ -7,8 +7,16 @@ Here are some direct firmware download links, the filenames have been extracted 
 the UniFi Cloud Key log files like this:
 
 ```
-grep downloaded /srv/unifi-protect/logs/updates.downloadRelease.log
+grep downloaded /srv/unifi-protect/logs/service.log
 ```
+
+> [!TIP]
+> Different Cloud Key versions produce different logs. You could try alternatively:
+> ```
+> grep path /srv/unifi-protect/logs/devices.updates*log
+> grep downloaded /srv/unifi-protect/logs/updates.downloadRelease.log
+> ```
+
 
 There are different versions of the firmware, depending of the platform used
 by the device model:
