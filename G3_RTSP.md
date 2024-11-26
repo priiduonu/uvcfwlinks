@@ -66,6 +66,7 @@ rtsp://<camera>:554/s2
 | [4.72.36](https://community.ui.com/releases/UniFi-Protect-Cameras-4-72-36/56136a20-c9b6-4529-ab2e-8dd4fb053c3c)   |             |
 | [4.72.38](https://community.ui.com/releases/UniFi-Protect-Cameras-4-72-38/3597a7b0-f80e-4272-a685-081368067f0e)   | [^2]        |
 | [4.72.44](https://community.ui.com/releases/UniFi-Protect-Cameras-4-72-44/ab38fd24-91eb-4a4b-80fe-b9ba408e6e4e)   |             |
+| [4.73.71](https://community.ui.com/releases/UniFi-Protect-Cameras-4-73-71/c5d44543-4c39-49d0-adc7-ec17312d03c4)   |             |
 
 [^1]: from this version onward the _Mode_ and _RTSP_ settings are hidden on the web page but RTSP streaming still works!
 [^2]: from this version onward the _Overlay_ settings do not survive reboot, no overlay is displayed
