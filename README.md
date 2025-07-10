@@ -33,6 +33,7 @@ by the device model:
 |----------|---------------------------------------------------------------------------------------|
 | a5s      | UVC Bullet, UVC Dome, UVC Micro, UVC Pro                                              |
 | cv22     | AI DSLR                                                                               |
+| cv25z    | ???                                                                                   |
 | cv2x     | AI 360, AI Bullet, AI Pro, AI Theta                                                   |
 | s2l      | G3 Bullet, G3 Dome, G3 Flex, G3 Pro                                                   |
 | s2lb     | Vision Go                                                                             |
@@ -41,6 +42,8 @@ by the device model:
 | sav500db | ???                                                                                   |
 | sav530q  | G4 Instant, G5 Bullet, G5 Dome, G5 Flex, G5 Pro, G5 PTZ, G5 Turret Ultra              |
 | sav532q  | G3 Instant                                                                            |
+| sav539g  | ???                                                                                   |
+| sav539gp | ???                                                                                   |
 | sav837gw | G4 Instant, G5 Bullet, G5 Dome, G5 Flex, G5 Pro, G5 PTZ, G5 Turret Ultra              |
 
 This information has been gathered from
