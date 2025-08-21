@@ -43,7 +43,7 @@ by the device model:
 | sav530q  | G4 Instant, G5 Bullet, G5 Dome, G5 Flex, G5 Pro, G5 PTZ, G5 Turret Ultra              |
 | sav532q  | G3 Instant                                                                            |
 | sav539g  | ???                                                                                   |
-| sav539gp | ???                                                                                   |
+| sav539gp | G6 PTZ                                                                                |
 | sav837gw | G4 Instant, G5 Bullet, G5 Dome, G5 Flex, G5 Pro, G5 PTZ, G5 Turret Ultra              |
 
 This information has been gathered from
